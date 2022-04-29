@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: lnac
+netty:
+  default:
+    allocator:
+      max-order: 3
